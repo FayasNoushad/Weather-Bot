@@ -3,6 +3,18 @@ A weather information finding telegram bot
 
 ---
 
+## Deploy
+
+```sh
+git clone https://github.com/FayasNoushad/Weather-Bot.git
+cd Weather-Bot
+pip3 install -r requirements.txt
+# <Create Variables appropriately>
+python3 main.py
+```
+
+---
+
 ## Variables
 
 - `API_HASH` Your API Hash from my.telegram.org
