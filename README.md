@@ -23,3 +23,12 @@ python3 main.py
 - `API_KEY` API Key from [WeatherAPI.com](https://www.weatherapi.com/my/)
 
 ---
+
+## Credits
+
+- [Weather API](https://www.weatherapi.com/my/)
+- [Contributors](https://github.com/FayasNoushad/Weather-Bot/graphs/contributors)
+- [Pyrogram](https://github.com/pyrogram/pyrogram)
+
+---
+
