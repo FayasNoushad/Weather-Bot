@@ -8,6 +8,8 @@ A weather information finding telegram bot
 ```sh
 git clone https://github.com/FayasNoushad/Weather-Bot.git
 cd Weather-Bot
+python3 -m venv venv
+. ./venv/bin/activate
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
 python3 main.py
